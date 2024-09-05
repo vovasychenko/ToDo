@@ -1,0 +1,22 @@
+.completed {
+  background-color: rgb(110, 255, 110);
+  height: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.uncompleted {
+  background-color: rgb(255, 110, 110);
+  height: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.onlyUncompleted {
+  display: block;
+  margin-bottom: 20px;
+}
+.onlyCompleted {
+  display: block;
+  margin-top: 20px;
+}
